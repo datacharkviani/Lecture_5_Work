@@ -6,7 +6,7 @@
 .logo{
     display:inline-block;
     font-size:20px;
-    margin:30px 80px 0 20px;
+    margin:30px 50px 0 20px;
     color:#ff0000d1;
     font-family: 'Noto Sans', sans-serif;
 }
@@ -30,4 +30,52 @@ li{
 }
 body{
     background-color:rgb(241 240 240);
+}
+.trending{
+    display:inline-block;
+    position:absolute;
+    margin-top:80px;
+    margin-left:190px;
+    font-size:21px;
+    font-family: 'Bitter', serif;
+}
+
+.small{
+    height:197px;
+    width:300px;
+    position:absolute;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.inside-text{
+    position:absolute;
+    z-index:1;
+    color:#fff;
+    top:20px;
+    left:20px;
+    font-family: 'Noto Sans', sans-serif;
+}
+.first-section-div{
+    position:relative;
+    width:300px;
+    height:290px;
+    background-color:white;
+    display:inline-block;
+    border-radius:10px;
+    margin-top:120px;
+    margin-left:20px;
+
+}
+.first-div{
+    margin-left:190px;
+}
+.inside-2{
+    padding-top:220px;
+    padding-left:20px;
+    font-family: 'Saira', sans-serif;
+}
+.container{
+    width:1350px;
+    height:1000px;
+    margin:0 auto;
 }
