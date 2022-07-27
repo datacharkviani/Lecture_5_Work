@@ -82,3 +82,54 @@ body{
     margin:0 auto;
     position:relative;
 }
+
+.inside-1-image{
+    width:500px;
+    height:343px;
+    vertical-align: auto;
+    margin-top:20px;
+    margin-bottom:58px;
+}
+.inside-2-image{
+    width:500px;
+    height:343px;
+
+
+}
+.inside-3-image, .inside-4-image, .inside-5-image{
+    width:350px;
+    height:224px;
+    margin-bottom:30px;
+    margin-left:50px;
+
+}
+.ajaja{
+    width:500px;
+    height:1000px;
+    display:inline-block;
+    vertical-align: middle;
+}
+.ajaja-2{
+    width:350px;
+    height:1000px;
+    display:inline-block;
+    vertical-align: middle;
+}
+.inside-3-image{
+    vertical-align: auto;
+    margin-top:20px;
+}
+.section-2-div{
+    width:970px;
+    margin:0 auto;
+}
+.section-2-header{
+   font-size:20px;
+   margin-top:50px;
+   margin-bottom:10px;
+   font-family: 'Bitter', serif;
+   
+}
+.inside-images{
+    margin-top:10px;
+}
